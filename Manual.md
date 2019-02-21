@@ -6,3 +6,5 @@ En primer lugar necesitaremos configurar el elemento que recibe la información 
 
 A continuación, tras haber obtenido el token, nos vamos a nuestro node-red (http://ipRaspberryVirtual:1880) y genramos un notod Telegram Receiver. Tras configurarlo aparecerá como en la imagen
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
