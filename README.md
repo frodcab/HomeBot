@@ -5,6 +5,7 @@ This repo wants to be a quick guide to build a easy chatbot via telegram. This c
 
 To simplify the bot deploy, we have build a virtual machine with all the requirements fulfilled. You can download the image here: https://goo.gl/mRxkny
 
-We hope that you can learn how a bot can be built without a single line of code using Node-Red and some community packages.
+We hope that you can learn how a bot can be built without a single line of code using Node-Red and some community packages. Manual can be found here: https://github.com/frodcab/HomeBot/blob/master/Manual.md
+
 
 Good luck!
