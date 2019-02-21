@@ -1,4 +1,4 @@
-Bienvenido al breve manual que vamos a seguir para generar el bot
+Manual de contrucción del bot
 #
 
 
